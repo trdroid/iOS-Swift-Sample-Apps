@@ -39,11 +39,19 @@ Generate a provisioning profile
 
 ![](_misc/On%20selecting%20the%20team.png)
 
+
+**Viewing the certificate in Account details**
+
 ![](_misc/Viewing%20certificate%20in%20account%20details.png)
+
+Select the phone and hit "run"
 
 ![](_misc/Allow%20key%20access%20in%20keychain.png)
 
 ![](_misc/Could%20not%20launch%20the%20app%20on%20Phone.png)
+
+
+**Configuring the Phone**
 
 ![](_misc/Device%20Management.png)
 
@@ -56,5 +64,12 @@ Generate a provisioning profile
 ![](_misc/On%20Trusting%20User.png)
 
 
+**Launching the App**
+
+The following screenshot displays that the app is installed on the phone.
 
 ![](_misc/App%20Installed.png)
+
+Launching the app displays a white screen for a second or so and then goes back to the home screen.
+
+
